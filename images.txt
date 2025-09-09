@@ -41,4 +41,5 @@
 #wurstmeister/zookeeper
 #wurstmeister/kafka
 #postgres:15.8
-goharbor/prepare:v2.12.2
+#goharbor/prepare:v2.12.2
+docker.io/library/node:latest
