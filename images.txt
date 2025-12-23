@@ -45,4 +45,5 @@
 #docker.io/library/node:6
 #mysql:8.0
 #xubiaolin/zerotier-planet:latest
-pgvector/pgvector:pg15
+#pgvector/pgvector:pg15
+bigbeartechworld/big-bear-minio:RELEASE.2025-10-15T17-29-55Z
