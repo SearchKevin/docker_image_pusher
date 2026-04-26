@@ -47,4 +47,5 @@
 #xubiaolin/zerotier-planet:latest
 #pgvector/pgvector:pg15
 #bigbeartechworld/big-bear-minio:RELEASE.2025-10-15T17-29-55Z
-milvusdb/milvus:v2.6.9
+#milvusdb/milvus:v2.6.9
+redis-stack
